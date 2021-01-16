@@ -1,7 +1,7 @@
 <h1 align="center">
 <br>
 
- <img src=".github/logo.png" alt="DSdelivery" />
+ <img src=".github/Logo.png" alt="DSdelivery" />
 
 <p align="center">
     <b ></b>Uma plataforma para fazer pedidos na parte da web </b>
