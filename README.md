@@ -40,8 +40,8 @@ aprender novas tecnologias.
   - [PostgreSQL](https://www.postgresql.org/)
 
 - **Mobile**
-  -[React-Native](https://reactnative.dev/)
-  -[Expo](https://expo.io/)
+  - [React-Native](https://reactnative.dev/)
+  - [Expo](https://expo.io/)
 
 <br>
 
