@@ -1,7 +1,7 @@
 <h1 align="center">
 <br>
 
- <img src=".github/logo.svg" alt="DSdelivery" />
+ <img src=".github/logo.png" alt="DSdelivery" />
 
 <p align="center">
     <b ></b>Uma plataforma para fazer pedidos na parte da web </b>
@@ -9,7 +9,7 @@
 </p>
 
 <div align="center" >
-    <img src=".github/gif/web.gif"
+    <img src=".github/web.gif"
     alt="demo-web" height="425">
     </div>
 
