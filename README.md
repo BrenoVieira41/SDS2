@@ -89,7 +89,7 @@ $ git clone https://github.com/Brenovieira41/SDS2.git
   # Running web app
   $ yarn start # or npm start
 ```
-- :iphone: Site web
+- :iphone: App mobile
 ```sh
   $ cd front-mobile
   # Dependencies install.
